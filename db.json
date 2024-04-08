@@ -1,0 +1,14 @@
+{
+    "todo":[
+        {
+            "id":1,
+            "title":"HTML",
+            "status":false
+        },
+        {
+            "id":2,
+            "title":"CSS",
+            "status":true
+        }
+    ]
+}
